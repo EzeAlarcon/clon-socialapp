@@ -21,9 +21,16 @@
 - Seguir/dejar de seguir usuarios
 - Modo oscuro/claro
 
+## Futuras Actualizaciones 
+- Implementacion de servicio de chat
+- Creacion de salas internas
+- Creacion de chanels tipo texto, voz, video dentro de las salas
+- Moderacion de mensajes y edidion y eliminar para mi y para todos
+- video llamadas grupales de voz o video 
+
 <p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
-### Capturas de pantalla de Threads Clone:
+### Capturas de pantalla de ChristianLife:
 
 
 ![mobile](https://github.com/02Alexis/threads-clone/assets/99287560/10376522-e80d-4532-b8db-f4693446d2ce)
