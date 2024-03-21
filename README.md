@@ -41,7 +41,7 @@
 1. Clona el repositorio
 
    ```sh
-   git clone https://github.com/02Alexis/threads-clone.git
+   https://github.com/EzeAlarcon/clon-socialapp.git
    ```
 
 2. Navega hasta el directorio
